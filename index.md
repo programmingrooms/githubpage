@@ -34,10 +34,10 @@
 
 <div id="winmac">
     <a href="https://oit-pc.github.io/pc/windows.html" id="win">
-    Windows
+    Windows用<br>説明動画
     </a>
     <a href="https://oit-pc.github.io/pc/mac.html" id="mac">
-    Mac
+    Mac用<br>説明動画
     </a>
 </div>
 
