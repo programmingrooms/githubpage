@@ -1,20 +1,19 @@
 <style>
   
-  #winmac {
+#winmac {
   display: flex;
   justify-content: space-around;
 }
 
-#winmac > span {
-  border: 0;
-  padding: 5rem;
-  margin: 0;
-  
-  font-size: 40px;
-  width: 400px;
-  height: 50px;
-  
-  text-align: center;
+#winmac > a {
+    font-size: 30pt;
+    border: 1px solid blue;
+    padding: 10px 30px;
+    width: 200px;
+
+    color: white;
+    text-align: center;
+    text-decoration: none;
 }
 
 #win, #mac {
@@ -23,20 +22,22 @@
 
 #win {
   background-color: hsl(120, 60%, 40%);
-  
 }
+
 #mac {
-  background-color: hsl(29, 60%, 50%);
-  
+  background-color: hsl(29, 60%, 50%);  
 }
 
   
 </style>
 
-
 <div id="winmac">
-  <span id="win">Windows</span>
-  <span id="mac">Mac</span>
+    <a href="https://oit-pc.github.io/pc/windows.html" id="win">
+    Windows
+    </a>
+    <a href="https://oit-pc.github.io/pc/mac.html" id="mac">
+    Mac
+    </a>
 </div>
 
 
