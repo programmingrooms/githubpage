@@ -34,6 +34,12 @@
 </style>
 
 
+<div id="winmac">
+  <span id="win">Windows</span>
+  <span id="mac">Mac</span>
+</div>
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/programmingrooms/githubpage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -53,10 +59,6 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-<div id="winmac">
-  <span id="win">Windows</span>
-  <span id="mac">Mac</span>
-</div>
 
 - Bulleted
 - List
