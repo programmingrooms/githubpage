@@ -7,17 +7,15 @@
 
 #winmac > a {
     font-size: 30pt;
-    border: 1px solid blue;
-    padding: 10px 30px;
-    width: 200px;
+    border: 0;
+    padding: 5rem;
+    
+    width: 400px;
+    height: 50px;
 
     color: white;
     text-align: center;
     text-decoration: none;
-}
-
-#win, #mac {
-  color: white;
 }
 
 #win {
