@@ -6,15 +6,18 @@
 }
 
 #winmac > a {
-    font-size: 30pt;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
     border: 0;
     padding: 5rem;
     
     width: 400px;
     height: 50px;
 
+    font-size: 30pt;
     color: white;
-    text-align: center;
     text-decoration: none;
 }
 
