@@ -1,0 +1,11 @@
+---
+---
+
+@import "";
+
+#win {
+    background-color: hsl(211, 63%, 57%);
+}
+#mac {
+    background-color: hsl(51, 63%, 57%);
+}
