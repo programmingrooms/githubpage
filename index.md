@@ -1,28 +1,3 @@
-<style>
-  
-#winmac {
-  display: flex;
-  justify-content: space-around;
-}
-
-#winmac > a {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-    border: 0;
-    padding: 5rem;
-    
-    width: 400px;
-    height: 50px;
-
-    font-size: 30pt;
-    color: white;
-    text-decoration: none;
-}
-
-</style>
-
 <div id="winmac">
     <a href="https://oit-pc.github.io/pc/windows.html" id="win">
     Windows用<br>説明動画
