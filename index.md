@@ -21,15 +21,6 @@
     text-decoration: none;
 }
 
-#win {
-  background-color: hsl(120, 60%, 40%);
-}
-
-#mac {
-  background-color: hsl(29, 60%, 50%);  
-}
-
-  
 </style>
 
 <div id="winmac">
